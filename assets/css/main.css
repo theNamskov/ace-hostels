@@ -1,0 +1,31 @@
+@import url('style.css');
+
+#content {
+    flex-direction: column;
+    justify-content: safe;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.motto {
+    margin-top: -2em;
+    font-style: italic;
+    line-height: 1.2em;
+    word-spacing: .2em;
+    text-align: center;
+}
+
+#view-rooms-btn {
+    margin: 25vh 0;
+}
+
+@media screen and (min-width: 62rem) {
+    #content {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}

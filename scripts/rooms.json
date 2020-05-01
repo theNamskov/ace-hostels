@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "hostel": "Ace Hostels Block A",
+        "photo": "room-1.jpg",
+        "price": 5000,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 2,
+        "hostel": "Ace Hostels Block A",
+        "photo": "room-2.jpg",
+        "price": 6500,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 3,
+        "hostel": "Ace Apartments Block C",
+        "photo": "room-3.jpg",
+        "price": 4520,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 4,
+        "hostel": "Ace Hostels Block B",
+        "photo": "room-4.jpg",
+        "price": 5000,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 5,
+        "hostel": "Ace Hostels Block A",
+        "photo": "room-5.jpg",
+        "price": 8500,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 6,
+        "hostel": "Ace Hostels Block C",
+        "photo": "room-6.jpg",
+        "price": 4500,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 7,
+        "hostel": "Ace Apartments Block A",
+        "photo": "room-7.jpg",
+        "price": 6280,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 8,
+        "hostel": "Ace Hostels Block E",
+        "photo": "room-8.jpg",
+        "price": 4520,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 9,
+        "hostel": "Ace Apartments Block B",
+        "photo": "room-9.jpg",
+        "price": 5000,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 10,
+        "hostel": "Ace Hostels Block D",
+        "photo": "room-10.jpg",
+        "price": 8200,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    },
+
+    {
+        "id": 11,
+        "hostel": "Ace Apartments Block C",
+        "photo": "room-11.jpg",
+        "price": 4520,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum molestias aliquid ratione dignissimos fuga eos blanditiis facere sequi! Illum, laborum. Voluptatem laboriosam minus, iusto rerum reprehenderit, commodi labore dolorum excepturi necessitatibus molestiae, nam doloribus."
+    }
+]
