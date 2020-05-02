@@ -19,7 +19,8 @@ body, a {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(to bottom right, #4091aa, #4aa2a8, #00eeff, #00eeff,#00eeff, #00eeff, #00eeff, #00eeff, #00eeff, #00eeff);
+    background: #2e9183;
+    /* background: linear-gradient(to bottom right, #4091aa, #4aa2a8, #00eeff, #00eeff,#00eeff, #00eeff, #00eeff, #00eeff, #00eeff, #00eeff); */
     height: 16vh;
     position: fixed;
     z-index: 2;
